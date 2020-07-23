@@ -1,38 +1,38 @@
-- [介绍](7/introduction)
+- [介绍](/introduction)
 
 - 概述
-  - [第一步](7/firststeps)
-  - [控制器](7/controllers)
-  - [提供者](7/providers)
-  - [模块](7/modules)
-  - [中间件](7/middlewares)
-  - [异常过滤器](7/exceptionfilters)  
-  - [管道](7/pipes)
-  - [守卫](7/guards)
-  - [拦截器](7/interceptors)
-  - [自定义装饰器](7/customdecorators)
-  - [相关资料](7/awesome)
-  - [关于翻译](7/about)
+  - [第一步](/firststeps)
+  - [控制器](/controllers)
+  - [提供者](/providers)
+  - [模块](/modules)
+  - [中间件](/middlewares)
+  - [异常过滤器](/exceptionfilters)  
+  - [管道](/pipes)
+  - [守卫](/guards)
+  - [拦截器](/interceptors)
+  - [自定义装饰器](/customdecorators)
+  - [相关资料](/awesome)
+  - [关于翻译](/about)
 
-- [基本原理](7/fundamentals)
+- [基本原理](/fundamentals)
 
-- [技术](7/techniques)
+- [技术](/techniques)
 
-- [GraphQL](7/graphql)
+- [GraphQL](/graphql)
 
-- [WEBSOCKETS](7/websockets)
+- [WEBSOCKETS](/websockets)
 
-- [微服务](7/microservices)
+- [微服务](/microservices)
 
-- [独立应用](7/standalone-applications)
+- [独立应用](/standalone-applications)
 
-- [CLI](7/cli)
+- [CLI](/cli)
 
-- [秘籍](7/recipes)
+- [秘籍](/recipes)
 
-- [FAQ](7/faq)
+- [FAQ](/faq)
 
-- [迁移指南](7/migrationguide)
+- [迁移指南](/migrationguide)
 
-- [谁在使用 Nest](7/discover)
+- [谁在使用 Nest](/discover)
 
